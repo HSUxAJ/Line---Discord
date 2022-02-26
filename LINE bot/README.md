@@ -1,2 +1,1 @@
-"# Line---Discord" 
-"# Line---Discord" 
+Line <--> Discord
